@@ -1,4 +1,12 @@
-# react-ecommerce-template
-Bootstrap e-commerce template in written React JS. [Live Preview](http://phyohtetarkar.github.io/react-ecommerce-template/)
+# E-commerce Template
+E-commerce consumer front-end template. [Live Preview](https://mocha-mart.web.app)
 
-See better version of this with nextjs => [Mocha Mart Repo](https://github.com/phyohtetarkar/mocha-mart)
+- NextJS
+- Bootstrap 5
+
+## Compile SCSS
+
+```bash
+cd styles
+sass scss/bootstrap-custom.scss:bootstrap-custom.css
+```
